@@ -1,0 +1,7 @@
+{
+    "test_url": "https://api.myip.com",
+    "threads": "250",
+    "timeout": "1",
+    "file_name": "proxies.txt",
+    "proxy_type": "https://"
+}
